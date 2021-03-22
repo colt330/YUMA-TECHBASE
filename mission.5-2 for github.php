@@ -5,7 +5,7 @@
     <title>mission.5-2</title>
 </head>
 <body>
-    <strong>mission.5-2 掲示板</strong><br>
+    <strong>福本優磨：掲示板</strong><br>
     &emsp;&emsp;&emsp;&emsp;&emsp;編集や削除をする場合は、投稿番号と書き込み時に指定したパスワードを入力してね<br>
     <form action="" method="post" id="form1">
     </form>
